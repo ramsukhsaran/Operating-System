@@ -1,0 +1,5 @@
+S.no   student arrival_time     student brust_time    student priority   T S.no     Teacher arrival_time     Teacher Brust_time  T_priority
+S[1]   0                        2                     5                  T[1]       1                        2                  4
+S[2]   1                        1                     5                  T[2]       3                        1                  4
+S[3]   3                        4                     5                  T[3]       4                        3                  4
+S[4]   4                        5                     5                  T[4]       4                        2                  4
